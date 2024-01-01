@@ -1,4 +1,4 @@
-# QR code component solution | Frontend Mentor ![](img/favicon-32x32.png)
+# QR code component solution | Frontend Mentor ![](img/img-README/favicon-border.png)
 This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H).
 
 ## Table of contents
@@ -14,7 +14,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![Screenshot page QR Code](img/screenshot-page-qr-code.png)
+![Screenshot page QR Code](img/img-README/screenshot-page-qr-code.png)
 
 
 ### Links
