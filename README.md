@@ -3,18 +3,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 <br>
 
-## Table of contents
-
-- [Overview](#overview)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-
-<br>
-
-## Overview :earth_americas:
+## Overview 🌎
 
 ### Screenshot
 
@@ -26,7 +15,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 <br>
 
-## My process
+## My process 🗺️
 
 ### Built with
 - Semantic HTML5 markup
